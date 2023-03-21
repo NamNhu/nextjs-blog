@@ -1,6 +1,6 @@
 /* Next.js Components */
 import Head from 'next/head';
-import Link from 'next/Link';
+import Link from 'next/link';
 import Date from '../components/date';
 
 /* Custom Components */
